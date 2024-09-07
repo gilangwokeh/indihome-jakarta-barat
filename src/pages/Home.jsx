@@ -60,7 +60,7 @@ const Home = () => {
           <li className='ml-5'>Speed 50 Mbps: Rp 445.000 (belum Termasuk PPn 11%)</li>
           <li className='ml-5'>Speed 100 Mbps: Rp 795.000 (belum Termasuk PPn 11%)</li>
         </ul>
-        <a className='text-blue-600 hover:text-red-600' href="https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%202P%20Kak?">Klik Untuk Order Pemasangan Wifi Indihome Paket 2P Internet Dan Telpon Lewat WhatsApp Saya</a>
+        <a className='text-blue-600 hover:text-red-600' href="https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%202P%20Kak?">Klik Untuk Pesan Pemasangan Wifi Indihome Paket 2P Internet Dan Telpon Lewat WhatsApp.Terimakasih :)</a>
         <h3 className='font-bold text-center p-4'>Biaya Tarif Pasang Baru Indihome Jakarta Barat Tahun 2024 Dan Tahun 2025</h3>
         <img className='w-[60%] mx-auto' src='./pasang-indihome-Jakarta-barat.jpg' alt="indihome jakarta barat" />
         <p className='pt-2 pb-2'> secara harga biaya atau tarif pemasangan baru Indihome di Jakarta Barat adalah sebagai berikut:</p>
