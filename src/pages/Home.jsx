@@ -73,7 +73,7 @@ const Home = () => {
         <h1 className='font-bold text-center p-4'>Syarat Untuk Bisa Pendaftaran</h1>
         <p className='pb-2'>Hubungi WhatsApp Saya : 089631119809</p>
         <p className='pb-2'>Kamu Siap Kan isi Data melalui Link Ini : <a className='text-blue-600 hover:text-red-600' href="https://sobat.indihome.co.id/landingpage?pid=RCGLNG">KLIK DI SINI</a></p>
-        <p className='pb-2 text-justify'>Pastikan Data Valid dan Pastikan Foto Jelas tidak blur atau Buram,Di Mohon HP Kamu selalu keadaan aktif untuk bisa di telpon dari Telkom 1500620.  waktu pemasangan Maksimal 3 hari atau Paling Lama 7 Hari.</p>
+        <p className='pb-2 text-justify w-[100%]'>Pastikan Data Valid dan Pastikan Foto Jelas tidak blur atau Buram,Di Mohon HP Kamu selalu keadaan aktif untuk bisa di telpon dari Telkom 1500620.  waktu pemasangan Maksimal 3 hari atau Paling Lama 7 Hari.</p>
       </div>
       <Footer/>
     </>
