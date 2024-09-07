@@ -8,7 +8,7 @@ const NavbarHome = () => {
     <Navbar bg="primary" expand="lg">
       <Container>
         <Navbar.Brand href="#home">
-          <img src="./indihome.png" alt="indihome" className='w-12 '/>
+          <img href="https://indihome-jakarta-barat.netlify.app/" src="./indihome.png" alt="indihome" className='w-12 '/>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
