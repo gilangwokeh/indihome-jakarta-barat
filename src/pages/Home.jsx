@@ -42,7 +42,7 @@ const Home = () => {
           <li className='ml-5'>Speed 50 Mbps: Rp 615.000 (belum Termasuk PPn 11%)</li>
           <li className='ml-5'>Speed 100 Mbps: Rp 965.000 (belum Termasuk PPn 11%)</li>
         </ul>
-        <a className='text-blue-600 hover:text-red-600' href='https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%203P%20Kak?'>Klik Untuk Order Pemasangan Wifi Indihome Paket 3P Lewat WhatsApp Saya</a>
+        <a className='text-blue-600 hover:text-red-600' href='https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%203P%20Kak?'>Klik Untuk Pesan Pemasangan Wifi Indihome Paket 3P Lewat WhatsApp.Terimakasih :)</a>
         <h3 className='font-bold text-center p-4'>Paket 2P (Paket Internet dan Telpon)</h3>
         <p className='pb-2 text-justify'>Paket promo Indihome 2P Internet Telepon merupakan paket Dual Play yang terdiri atas internet dan telepon. Ini berarti Kamu tidak mendapatkan fasilitas UseeTV. Fitur paket 2P Internet Telepon adalah sebagai berikut:</p>
         <ul className='list-disc ml-5 pb-2'>
