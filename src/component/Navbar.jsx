@@ -13,7 +13,7 @@ const NavbarHome = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto sm:ml-[70%]">
-            <Nav.Link href="https://my-indihome.com/indihome-jakarta-barat/" className='text-black'>Indihome Jakarta Barat</Nav.Link>
+            <Nav.Link href="https://indihome-jakarta-barat.netlify.app/" className='text-black'>Indihome Jakarta Barat</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
