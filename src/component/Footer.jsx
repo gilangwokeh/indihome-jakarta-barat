@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className='bg-black mt-4 h-9'>
-      <h1 className='text-[70%] text-center pt-[10px] text-white md:text-[100%] md:text-center md:pt-2'>Hak Cipta © 2024 Indihome Jakarta Barat , <a className='text-blue-600 hover:text-red-600' href="https://indihome-jakarta-barat.netlify.app/">Gilang</a> All rights reserved. </h1>
+      <h1 className='text-[70%] text-center pt-[10px] text-white md:text-[100%] md:text-center md:pt-2'>Hak Cipta © 2024 Indihome Jakarta Barat , <a className='text-blue-600 hover:text-red-600' href="https://indihome-jakarta-barat.netlify.app/">The best</a> All rights reserved. </h1>
     </div>
   )
 }
